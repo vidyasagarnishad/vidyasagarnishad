@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Vidyasagar and I am an frontend developer, driven by a passion for designing and developing web application that not only showcase cutting-edge technology but also priority the seamless integration of aesthetic appeal and intuitive user experience. I strive to create immersive digital experience that expectation and leave a lasting impression.<br><br>💻 My Tech Skill:<br>HTML5, CSS, JavaScript(ES6/ES7)<br>React,<br>Responsive Web Design<br>Firebase v9<br>REST APIs<br>Vercel for CVCD<br>NPM, Webpack<br>Git, GitHub
+Hello! My name is Vidyasagar and I am an frontend developer, driven by a passion for designing and developing web application that not only showcase cutting-edge technology but also priority the seamless integration of aesthetic appeal and intuitive user experience. I strive to create immersive digital experience that expectation and leave a lasting impression.<br><br>💻 My Tech Skill:<br>HTML5, CSS, JavaScript(ES6/ES7), TypeScript<br>React,<br>Responsive Web Design<br>Firebase v9<br>REST APIs<br>Vercel for CVCD<br>NPM, Webpack<br>Git, GitHub
 
 
 ## 🌐 Socials:
