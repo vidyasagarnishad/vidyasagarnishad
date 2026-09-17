@@ -1,18 +1,33 @@
 # 💫 About Me:
 I’m a Frontend Developer focused on building responsive, user-friendly web experiences.
 
-I have hands-on experience with React.js, JavaScript, HTML5, CSS3, Firebase, Vercel, and Git/GitHub. I enjoy turning designs and requirements into clean, responsive interfaces with a focus on usability, maintainable code, and consistent user experiences across devices.
 
-I’m interested in opportunities as a Frontend Developer, React Developer, or JavaScript Developer, where I can contribute to real-world products, strengthen my frontend engineering skills, and work with experienced development teams.
+I have hands-on experience with React.js, JavaScript, TypeScript, HTML5, CSS3, Firebase, Vercel, and Git/GitHub. I enjoy turning designs and requirements into clean, responsive interfaces with a focus on usability, maintainable code, and consistent user experiences across devices.
 
-💻 Tech Stack
-React.js
-JavaScript
-HTML5
-CSS3
-Firebase
-Vercel
-Git / GitHub
+
+I’m interested in opportunities as a Frontend Developer, React Developer, or JavaScript Developer where I can contribute to real-world products, continue strengthening my frontend engineering skills, and work with experienced development teams.
+
+
+💻 My Tech Skill:
+
+• React.js
+
+• JavaScript
+
+• TypeScript
+
+• HTML5
+
+• CSS3
+
+• Firebase
+
+• Vercel
+
+• Git/GitHub
+
+
+
 I’m open to connecting with recruiters, hiring managers, and developers working in frontend and web development.
 
 
